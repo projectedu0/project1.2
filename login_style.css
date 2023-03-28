@@ -57,7 +57,7 @@ border-radius:30px;
 
 }
 .form button:hover,.form button:focus {
-  background: #808080;
+  background: #222;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   transform: translateY(-4px);
 }
